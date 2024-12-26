@@ -3,7 +3,7 @@ COMPANY : CODTECH IT SOLUTIONS
 Intern ID :CT08EMR
 DOMAIN : FIGMA APP DEVELOPMENT.
 DURATION : December 17th, 2024 to January 17th, 2025
-MENTOR :
+
 
 
 Overview of the Design:
